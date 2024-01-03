@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JG1109&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=JG1109&countColor=%23263759)](https://visitorbadge.io/status?path=JG1109)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=JG1109&labelColor=%23697689&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=JG1109)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
